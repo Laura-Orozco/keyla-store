@@ -100,7 +100,7 @@ FastAPI genera automáticamente documentación para tu API:
 
 ```bash
 # Activar el entorno virtual
-env\Scripts\activate
+KEYLA_STORE_V\Scripts\activate
 
 # Instalar las dependencias
 pip install -r requirements.txt
@@ -113,6 +113,4 @@ uvicorn app.main:app --reload
 
 ## 👩‍💻 Desarrolladora
 
-- **Nombre:** Laura
-- **Correo:** tu@email.com
-- **Proyecto académico:** Ingeniería de Sistemas – Universidad [Nombre]
+- **Nombre:** Laura Orozco - Kevin Arzuza
