@@ -1,5 +1,5 @@
-CREATE DATABASE IF NOT EXISTS keyla_store;
-USE keyla_store;
+CREATE DATABASE keyla_store_;
+
 
 -- Tabla de Usuarios
 CREATE TABLE usuarios (
